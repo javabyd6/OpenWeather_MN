@@ -12,6 +12,8 @@
         <module>location</module>
         <module>readwheather</module>
         <module>readURLJson</module>
+        <module>serwisPogody</module>
+        <module>InitPogoda</module>
     </modules>
     <build>
         <plugins>
