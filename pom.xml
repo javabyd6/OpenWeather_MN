@@ -10,6 +10,8 @@
 
     <modules>
         <module>location</module>
+        <module>readwheather</module>
+        <module>readURLJson</module>
     </modules>
     <build>
         <plugins>

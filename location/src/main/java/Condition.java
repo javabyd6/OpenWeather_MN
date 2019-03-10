@@ -9,7 +9,8 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Condition {
-    String text;
-    String icon;
-    int code;
+
+    private String text;
+    private String icon;
+    private int code;
 }

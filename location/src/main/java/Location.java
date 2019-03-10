@@ -12,14 +12,14 @@ import lombok.NoArgsConstructor;
 
 public class Location {
 
-    String name;
-    String region;
-    String country;
-    float lat;
-    float lon;
-    String tz_id;
-    double localtime_epoch;
-    String localtime;
+    private String name;
+    private String region;
+    private String country;
+    private float lat;
+    private float lon;
+    private String tz_id;
+    private String localtime_epoch;
+    private String localtime;
 
 
 }

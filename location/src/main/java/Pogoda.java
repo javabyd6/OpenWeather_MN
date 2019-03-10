@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Wheather {
+public class Pogoda {
     Location location;
     Current current;
 
